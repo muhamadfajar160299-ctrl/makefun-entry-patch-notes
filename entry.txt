@@ -1,0 +1,1 @@
+v1.9.3: fixed a bug where stubbing your toe at 2 a.m. unlocked vocabulary your grandmother never taught you.
